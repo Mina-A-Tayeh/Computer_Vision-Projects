@@ -68,16 +68,16 @@ This project was done on 4 stages each with its own features as follows:
 # Task2
 
 1. Apply [Hough Transform](https://en.wikipedia.org/wiki/Hough_transform#:~:text=The%20Hough%20transform%20is%20a,shapes%20by%20a%20voting%20procedure.) _lines,circles & ellipses_
-2. Apply [active Snake contouring](https://en.wikipedia.org/wiki/Active_contour_model)
+2. Apply [Active Snake Contouring](https://en.wikipedia.org/wiki/Active_contour_model)
 3. Apply [Canny Edge Detector](https://en.wikipedia.org/wiki/Canny_edge_detector)
 
-| `Line`                                   | ![alt text](screenshots\task_2\HoughLine.jpg)                                                   |
+| `Line`                                   | ![alt text](screenshots/task_2/HoughLine.jpg)                                                   |
 | ---------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| `Circle`                                 | ![alt text](screenshots\task_2\HoughCircle.png)                                                 |
-| `Ellipse`                                | ![alt text](screenshots\task_2\HoughElipse.png)![alt text](screenshots\task_2\HoughElipse2.png) |
-| `Snake contour`                          | ![alt text](screenshots\task_2\ActiveCountour200.jpg)                                           |
-| `Canny Edge Detection (Low Thresholds)`  | ![alt text](screenshots\task_2\LowThresholdLow_HighThresholdLow.png)                            |
-| `Canny Edge Detection (High Thresholds)` | ![alt text](screenshots\task_2\LowThresholdHigh_HighThresholdHigh.png)                          |
+| `Circle`                                 | ![alt text](screenshots/task_2/HoughCircle.png)                                                 |
+| `Ellipse`                                | ![alt text](screenshots/task_2/HoughElipse.png)![alt text](screenshots/task_2/HoughElipse2.png) |
+| `Snake contour`                          | ![alt text](screenshots/task_2/ActiveCountour200.jpg)                                           |
+| `Canny Edge Detection (Low Thresholds)`  | ![alt text](screenshots/task_2/LowThresholdLow_HighThresholdLow.png)                            |
+| `Canny Edge Detection (High Thresholds)` | ![alt text](screenshots/task_2/LowThresholdHigh_HighThresholdHigh.png)                          |
 
 # Task3
 

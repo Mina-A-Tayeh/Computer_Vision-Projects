@@ -52,21 +52,18 @@ This project was done on 4 stages each with its own features as follows:
 5. apply different Edge detection methods: [Sobel](https://homepages.inf.ed.ac.uk/rbf/HIPR2/sobel.htm) , [Canny](https://homepages.inf.ed.ac.uk/rbf/HIPR2/canny.htm) , [Roberts](https://homepages.inf.ed.ac.uk/rbf/HIPR2/roberts.htm) , [Prewitt](https://homepages.inf.ed.ac.uk/rbf/HIPR2/prewitt.htm)
 6. Apply Local & Global Thresholding
 
-| `Median filter`          | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/medianF.jpg)         |
+| `Median filter`          | ![alt text](screenshots/task_1/median_filter.png)    |
 | ------------------------ | --------------------------------------------------------------------------------------------------------- |
-| `Gaussian filter`        | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/gaussianF.jpg)       |
-| `Averaging filter`       | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/averagingF.jpg)      |
-| `Low pass filter`        | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/lowpassF.jpg)        |
-| `High pass filter`       | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/highpassF.jpg)       |
-| `S&P Noise`              | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/s%26pN.jpg)          |
-| `Hybrid`                 | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/hybrid.jpg)          |
-| `Sobel edge detection`   | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/sobel.jpg)           |
-| `Canny edge detection`   | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/canny.jpg)           |
-| `Roperts edge detection` | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/roberts.jpg)         |
-| `Prewitt edge detection` | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/prewitt.jpg)         |
-| `Local thresholding`     | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/localthreshold.jpg)  |
-| `Global thresholding`    | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/globalthreshold.jpg) |
-| `Histogram`              | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/Tab2_RGB.jpg)        |
+| `Gaussian filter`        | ![alt text](screenshots/task_1/gaussian.png)       |
+| `Low pass filter - High pass filter`        | ![alt text](screenshots/task_1/low_high_pass_filter.png)        |
+| `S&P Noise`              | ![alt text](screenshots/task_1/salt_pepper.png)          |
+| `Hybrid`                 | ![alt text](screenshots/task_1/hybrid.png)        |
+| `Sobel edge detection`   | ![alt text](screenshots/task_1/sobel.png)           |
+| `Equalize-Normalize image`   | ![alt text](screenshots/task_1/equalize_normalize.png)           |
+| `Roperts edge detection` | ![alt text](screenshots/task_1/roberts.png)         |
+| `Prewitt edge detection` | ![alt text](screenshots/task_1/prewitt.png)         |
+| `Global - Local thresholding`    | ![alt text](screenshots/task_1/thresholding.png) |
+| `Histogram`              | ![alt text](screenshots/task_1/rgb_histogram.png)        |
 
 # Task2
 

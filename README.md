@@ -52,18 +52,18 @@ This project was done on 4 stages each with its own features as follows:
 5. apply different Edge detection methods: [Sobel](https://homepages.inf.ed.ac.uk/rbf/HIPR2/sobel.htm) , [Canny](https://homepages.inf.ed.ac.uk/rbf/HIPR2/canny.htm) , [Roberts](https://homepages.inf.ed.ac.uk/rbf/HIPR2/roberts.htm) , [Prewitt](https://homepages.inf.ed.ac.uk/rbf/HIPR2/prewitt.htm)
 6. Apply Local & Global Thresholding
 
-| `Median filter`          | ![alt text](screenshots/task_1/median_filter.png)    |
-| ------------------------ | --------------------------------------------------------------------------------------------------------- |
-| `Gaussian filter`        | ![alt text](screenshots/task_1/gaussian.png)       |
-| `Low pass filter - High pass filter`        | ![alt text](screenshots/task_1/low_high_pass_filter.png)        |
-| `S&P Noise`              | ![alt text](screenshots/task_1/salt_pepper.png)          |
-| `Hybrid`                 | ![alt text](screenshots/task_1/hybrid.png)        |
-| `Sobel edge detection`   | ![alt text](screenshots/task_1/sobel.png)           |
-| `Equalize-Normalize image`   | ![alt text](screenshots/task_1/equalize_normalize.png)           |
-| `Roperts edge detection` | ![alt text](screenshots/task_1/roberts.png)         |
-| `Prewitt edge detection` | ![alt text](screenshots/task_1/prewitt.png)         |
-| `Global - Local thresholding`    | ![alt text](screenshots/task_1/thresholding.png) |
-| `Histogram`              | ![alt text](screenshots/task_1/rgb_histogram.png)        |
+| `Median filter`                      | ![alt text](screenshots/task_1/median_filter.png)        |
+| ------------------------------------ | -------------------------------------------------------- |
+| `Gaussian filter`                    | ![alt text](screenshots/task_1/gaussian.png)             |
+| `Low pass filter - High pass filter` | ![alt text](screenshots/task_1/low_high_pass_filter.png) |
+| `S&P Noise`                          | ![alt text](screenshots/task_1/salt_pepper.png)          |
+| `Hybrid`                             | ![alt text](screenshots/task_1/hybrid.png)               |
+| `Sobel edge detection`               | ![alt text](screenshots/task_1/sobel.png)                |
+| `Equalize-Normalize image`           | ![alt text](screenshots/task_1/equalize_normalize.png)   |
+| `Roperts edge detection`             | ![alt text](screenshots/task_1/roberts.png)              |
+| `Prewitt edge detection`             | ![alt text](screenshots/task_1/prewitt.png)              |
+| `Global - Local thresholding`        | ![alt text](screenshots/task_1/thresholding.png)         |
+| `Histogram`                          | ![alt text](screenshots/task_1/rgb_histogram.png)        |
 
 # Task2
 
@@ -92,14 +92,19 @@ This project was done on 4 stages each with its own features as follows:
 1. Apply [Kmeans](https://www.geeksforgeeks.org/image-segmentation-using-k-means-clustering/), [Mean shift](https://towardsdatascience.com/understanding-mean-shift-clustering-and-implementation-with-python-6d5809a2ac40#:~:text=Mean%20shift%20is%20an%20unsupervised,clusters%20in%20the%20feature%20space.),[Region Growing](https://en.wikipedia.org/wiki/Region_growing#:~:text=Region%20growing%20is%20a%20simple,selection%20of%20initial%20seed%20points.) and [Agglomerative](https://ieeexplore.ieee.org/document/1044838/) Segmentation techniques
 2. Apply [Otsu](https://en.wikipedia.org/wiki/Otsu%27s_method) , [Spectral](https://medium.com/abraia/hyperspectral-image-classification-with-python-7dce4ebcda0a) and [Optimal](https://www.researchgate.net/publication/32973889_Optimal_thresholding_for_image_segmentation) Thresholding
 
-| `K-means`        | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/Kmean.jpg)          |
-| ---------------- | -------------------------------------------------------------------------------------------------------- |
-| `Mean shift`     | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/Mean%20Shift.jpg)   |
-| `Region Growing` | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/RegionGrowing.jpg)  |
-| `Agglomerative`  | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/aggo.jpg)           |
-| `Ostu`           | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/otsuglobal.png)     |
-| `Spectral`       | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/spectralglobal.png) |
-| `Optimal`        | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/optimalglobal.png)  |
+| `K-means`                        | ![alt text](screenshots/task_4/K-Means.png)                            |
+| -------------------------------- | ---------------------------------------------------------------------- |
+| `Mean shift`                     | ![alt text](screenshots/task_4/Mean%20Shift.jpg)                       |
+| `Region Growing threshold = 1`   | ![alt text](screenshots/task_4/Region%20Growing%20th1.png)             |
+| `Region Growing threshold = 3`   | ![alt text](screenshots/task_4/Region%20Growing%20th3.png)             |
+| `Region Growing threshold = 5`   | ![alt text](screenshots/task_4/Region%20Growing%20th5.png)             |
+| `Agglomerative`                  | ![alt text](screenshots/task_4/Agglomerative.png)                      |
+| `Ostu's global thresholding`     | ![alt text](screenshots/task_4/Otsu’s%20global%20thresholding.png)     |
+| `Ostu's local thresholding`      | ![alt text](screenshots/task_4/Otsu’s%20local%20thresholding.png)      |
+| `Optimal's global thresholding`  | ![alt text](screenshots/task_4/Optimal’s%20global%20thresholding.png)  |
+| `Optimal's local thresholding`   | ![alt text](screenshots/task_4/Optimal’s%20local%20thresholding.png)   |
+| `Spectral's global thresholding` | ![alt text](screenshots/task_4/Spectral’s%20global%20thresholding.png) |
+| `Spectral's local thresholding`  | ![alt text](screenshots/task_4/Spectral’s%20local%20thresholding.png)  |
 
 ---
 

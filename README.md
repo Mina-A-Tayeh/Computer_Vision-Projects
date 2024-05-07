@@ -117,6 +117,8 @@ This project was done on 4 stages each with its own features as follows:
 * [Mariem Magdy](https://github.com/MariemMagdi) 
 * [Mina Adel](https://github.com/Mina-A-Tayeh) 
 * [Ali Maged](https://github.com/alimaged10)
+* [Abdallah Ahmed](https://github.com/abdallahahmed11)
+* [Mohamed Mosilhy](https://github.com/mohamedmosilhy)
 
 </div>
 

@@ -85,10 +85,12 @@ This project was done on 4 stages each with its own features as follows:
 2. [SIFT](<https://www.sciencedirect.com/topics/computer-science/scale-invariant-feature-transform#:~:text=Scale%2DInvariant%20Feature%20Transform%20(SIFT)%E2%80%94SIFT%20is%20an,Keypoints%20Detection%2C%20and%20Feature%20Description.>)
 3. [SSD](https://en.wikipedia.org/wiki/Sum_of_absolute_differences#:~:text=In%20digital%20image%20processing%2C%20the,block%20being%20used%20for%20comparison.)
 
-| `Harris` | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/harris.jpg) |
-| -------- | ------------------------------------------------------------------------------------------------ |
-| `SIFT`   | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/sift.jpg)   |
-| `SSD`    | ![alt text](https://github.com/MahmoudRabea13/ComputerVision_Toolkit/blob/main/snaps/ssd.jpg)    |
+| `Harris`       | ![alt text](screenshots/task_3/alpha%200.01.png)                                                        |
+| -------------- | ------------------------------------------------------------------------------------------------------- |
+| `Lambda Minus` | ![alt text](screenshots/task_3/quantile%20=%200.998.png)                                                |
+| `SIFT`         | ![alt text](screenshots/task_3/`computeKeypointsWithOrientations`%20and%20%20`generateDescriptors`.png) |
+| `SSD matches`  | ![alt text](screenshots/task_3/SSD%20matches.png)                                                       |
+| `NCC matches`  | ![alt text](screenshots/task_3/NCC%20matches.png)                                                       |
 
 # Task4
 

@@ -1,6 +1,6 @@
 <div id = 'top'></div>
 
-# ComputerVision_Toolkit 💻
+# Comprehensive_Computer_Vision_Toolbox (CCT) 💻
 
 ### Desktop application that implements computer vision concepts.
 

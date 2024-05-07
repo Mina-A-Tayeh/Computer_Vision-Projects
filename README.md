@@ -13,24 +13,7 @@ This project is an image processing application developed using PyQt5 in Python.
 ![Screenshot of Application](screenshots/hybrid.png)
 ![Screenshot of Application](screenshots/median_filter.png)
 
-## Requirements
 
-- Python 3.x
-- OpenCV library (`opencv-python` package)
-- PyQt5 library (`pyqt5` package)
-- Matplotlib library (`matplotlib` package)
-- Numpy library (`numpy` package)
-
-## Instructions
-
-1. Clone or download the project repository.
-2. Install the required dependencies using pip:
-   ```
-   pip install opencv-python pyqt5 matplotlib numpy
-   ```
-3. Run the main Python script to launch the application.
-4. Use the GUI to load images, perform various image processing tasks, and visualize the results.
-5. Follow the instructions provided in the GUI or tooltips to interact with different features.
 
 ## Features
 
@@ -77,10 +60,4 @@ This project is an image processing application developed using PyQt5 in Python.
 11. **Hybrid Images**
     - Create hybrid images using Fourier transforms.
 
-## Contributors
 
-- Mohamed Sayed Mosilhe
-- Mina Adel
-- Mariam Magdy
-- Ali Maged
-- Abdallah Ahmed

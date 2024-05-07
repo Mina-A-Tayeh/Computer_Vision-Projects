@@ -20,7 +20,7 @@
 
 This project was done on 4 stages each with its own features as follows:
 
-### 1. Task 1:
+### 1. VisualFX Studio - Ultimate Image Enhancement:
 
 - Add different noise types and apply different filtering methods.
 - Do histogram equalization and normalization to both RGB & Gray image histograms.

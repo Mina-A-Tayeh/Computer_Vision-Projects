@@ -14,6 +14,7 @@
   - [Task2](#task2)
   - [Task3](#task3)
   - [Task4](#task4)
+  - [Task5](#task5)
 - <p><a href="#members">Team meambers</a></p>
 
 # Overview
@@ -42,6 +43,12 @@ This project was done on 4 stages each with its own features as follows:
 
 - Diferent Segmentation techniques.
 - Different Thresholding algorithms _Local&Global_
+
+### 5. Task 5:
+
+- Image Detection.
+- Image Recognition.
+- ROC Curve.
 
 # Task1
 
@@ -110,6 +117,19 @@ This project was done on 4 stages each with its own features as follows:
 | `Optimal's local thresholding`   | ![alt text](screenshots/task_4/Optimal’s%20local%20thresholding.png)   |
 | `Spectral's global thresholding` | ![alt text](screenshots/task_4/Spectral’s%20global%20thresholding.png) |
 | `Spectral's local thresholding`  | ![alt text](screenshots/task_4/Spectral’s%20local%20thresholding.png)  |
+
+
+
+# Task5
+
+1. Apply [Image Detection](https://medium.com/ai-techsystems/image-detection-recognition-and-image-classification-with-machine-learning-92226ea5f595), [Image Recognition](https://www.datacamp.com/blog/what-is-image-recognition), and [ROC Curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic).
+   
+| `Image Detection`                | ![alt text](screenshots/task_4/K-Means.png)                            |
+| -------------------------------- | ---------------------------------------------------------------------- |
+| `Image Recognition`              | ![alt text](screenshots/task_4/Mean%20Shift.jpg)                       |
+| `Testing The Model`              | ![alt text](screenshots/task_4/Region%20Growing%20th1.png)             |
+| `ROC Curve`                      | ![alt text](screenshots/task_4/Region%20Growing%20th3.png)             |
+
 
 ---
 

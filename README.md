@@ -46,8 +46,8 @@ This project was done on 4 stages each with its own features as follows:
 
 ### 5. Task 5:
 
-- Image Detection.
-- Image Recognition.
+- Face Detection.
+- Face Recognition.
 - ROC Curve.
 
 # Task1
@@ -122,13 +122,13 @@ This project was done on 4 stages each with its own features as follows:
 
 # Task5
 
-1. Apply [Image Detection](https://medium.com/ai-techsystems/image-detection-recognition-and-image-classification-with-machine-learning-92226ea5f595), [Image Recognition](https://www.datacamp.com/blog/what-is-image-recognition), and [ROC Curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic).
+1. Apply [Face Detection](https://medium.com/ai-techsystems/image-detection-recognition-and-image-classification-with-machine-learning-92226ea5f595), [Face Recognition](https://www.datacamp.com/blog/what-is-image-recognition), and [ROC Curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic).
    
-| `Image Detection`                | ![alt text](screenshots/task_4/K-Means.png)                            |
+| `Face Detection`                 | ![alt text](screenshots/Task5/Picture1.png)                            |
 | -------------------------------- | ---------------------------------------------------------------------- |
-| `Image Recognition`              | ![alt text](screenshots/task_4/Mean%20Shift.jpg)                       |
-| `Testing The Model`              | ![alt text](screenshots/task_4/Region%20Growing%20th1.png)             |
-| `ROC Curve`                      | ![alt text](screenshots/task_4/Region%20Growing%20th3.png)             |
+| `Face Recognition`               | ![alt text](screenshots/Task5/Picture3.png)                       |
+| `Testing The Model`              | ![alt text](screenshots/Task5/Picture4.png)             |
+| `ROC Curve`                      | ![alt text](screenshots/Task5/Picture5.png)             |
 
 
 ---
